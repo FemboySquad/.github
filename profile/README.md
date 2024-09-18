@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a repo might for junk and my second website
+This is a repo meant for junk and my second website
 ----
 
 https://krystal.thororen.com/
